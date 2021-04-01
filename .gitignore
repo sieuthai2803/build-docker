@@ -1,0 +1,6 @@
+# build file
+*.war
+*.jar
+
+# text file
+run-container.txt
